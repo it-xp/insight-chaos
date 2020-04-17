@@ -4,6 +4,8 @@ interpret random byte sequences as structured algorithms
 ## R&amp;D: BiScript and Interpretative cryptography 
 Mathematically simplest, from bi- to multi- glyph syntax based programming languages family for burn up cryptography performance and possibilities
 
+## Basics:
+
 ### 1. Simpliest BiGlyph language:
 any algorithm is collection of sequences of instructions, which read, generate, or transform data.
 in simpliest way, we are have a two glyphs, for represent algorithms and data, most often this is 0 and 1.
