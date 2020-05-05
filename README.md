@@ -1,4 +1,4 @@
-# insight-chaos
+# insight-chaos (very draft state)
 interpret random byte sequences as structured algorithms 
 
 ## R&amp;D: BiScript and Interpretative cryptography 
